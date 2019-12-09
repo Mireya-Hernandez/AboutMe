@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Mireya Hernandez</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, my name is Mireya Hernandez-Cruz.
+    \n\nCreating this application has been fun.
+    \n\nI am currently a Junior at Florida Gulf Coast University majoring in Software Engineering.
+    \n\nI am a Front Desk Assistant for the Housing and Residence Life at FGCU.
+    \n\nI am also apart of clubs such as the Software Engineering Club,
+    \n\nSociety of Hispanic Engineers, Eagle Gather and Osprey Area Council.
+    \n\nFun Facts
+    \nI am fluent in three languages. I love both cats and dogs.
+        \n\n I am currently in search of a Summer internship in Florida!\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
