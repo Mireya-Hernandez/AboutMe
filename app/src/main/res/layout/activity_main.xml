@@ -20,7 +20,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/name"
-        android:textAlignment="center" />
+        android:textAlignment="center"
+        android:textColor="#2196F3" />
 
     <EditText
         android:id="@+id/nickname_edit"
@@ -62,7 +63,8 @@
     <ScrollView
         android:id="@+id/bio_scoll"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:fillViewport="false">
 
 
         <TextView
@@ -72,7 +74,9 @@
             android:layout_height="wrap_content"
             android:lineSpacingMultiplier="1.2"
             android:text="@string/bio"
-            android:textAlignment="textStart" />
+            android:textAlignment="textStart"
+            android:textColor="#B7BE607F"
+            android:textStyle="italic" />
     </ScrollView>
 </LinearLayout>
 </layout>
